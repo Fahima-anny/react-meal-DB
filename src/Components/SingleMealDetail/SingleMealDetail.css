@@ -1,0 +1,10 @@
+.Mdetail{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin: 56px 0;
+}
+.Mdetail img{
+height: 250px;
+}

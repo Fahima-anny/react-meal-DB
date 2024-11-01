@@ -1,0 +1,13 @@
+.meal{
+    /* border: 1px solid black ; */
+    box-shadow: 0 0 10px 2px rgb(193, 193, 193);
+    border-radius: 10px;
+padding: 20px;
+}
+.meal img {
+    height: 200px;
+    margin: 10px auto;
+}
+.meal button {
+    background-color: rgb(224, 241, 255);
+}
